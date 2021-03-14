@@ -9,6 +9,10 @@
   },
   "author": "Potego",
   "license": "ISC",
+  "repositories": {
+    "type": "git",
+    "url": "TODO"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "simple-oauth2": "^4.2.0"
