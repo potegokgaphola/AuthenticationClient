@@ -11,7 +11,7 @@
   "license": "ISC",
   "repositories": {
     "type": "git",
-    "url": "TODO"
+    "url": "https://github.com/potegokgaphola/AuthenticationClient.git"
   },
   "dependencies": {
     "ejs": "^3.1.6",
